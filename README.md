@@ -1,2 +1,2 @@
 # thejug.github.io
-Personal WebSite Repo - Version 1
+Personal WebSite Repo - Version 2
