@@ -21,3 +21,8 @@ I'm really excited to blog my journey on GitHub.com.
 </li>
 {% endfor %}
 </ul>
+
+<ul>
+<li><a href="https://thejug.github.io/HelloWorld/">Hello World Project</a></li>
+<li><a href="https://github.com/tscript-user-scripts/">TARDIS Automation Project</a></li>
+</ul>
